@@ -15,12 +15,11 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/images/programmer.gif" alt="Coding gif" />
   
- 💻 &emsp; I like making new things<br/><br/>
- 🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/><br/>
+ 💻 &emsp; I like making new things<br/>
+ 🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
 </p>
-<br/>
 
 ## Technologies
 
