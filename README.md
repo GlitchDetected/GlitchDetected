@@ -32,4 +32,4 @@
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br/>
 
-<img align="right" width="350" src="/images/programmer.gif" width="50" height="50"/>
+<img align="right" width="350" src="/images/programmer.gif" width="100" height="70"/>
