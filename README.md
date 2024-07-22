@@ -6,10 +6,8 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">「 Stuff 」</a>
     <br>
     「 I make things 」
-    <br>
     <br>
   </samp>
 </p>
