@@ -1,3 +1,4 @@
+# About me
 <h3 align="center">
         <samp>&gt; Hello!, I am
                 <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">CosmicGlitch1</a></b>
@@ -11,8 +12,6 @@
     <br>
   </samp>
 </p>
-
- # About me
  
 <p>
   
@@ -20,7 +19,7 @@
  🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
 </p>
 
-## Technologies
+# Technologies
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
@@ -32,4 +31,4 @@
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br/>
 
-<img align="right" width="350" src="/images/programmer.gif" width="100" height="70"/>
+<img align="left" width="350" src="/images/programmer.gif" width="100" height="70"/>
