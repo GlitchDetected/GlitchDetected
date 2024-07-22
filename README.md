@@ -1,10 +1,8 @@
-<!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello!, I am
                 <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">CosmicGlitch1</a></b>
         </samp>
 </h3>
-
 
 <p align="center"> 
   <samp>
