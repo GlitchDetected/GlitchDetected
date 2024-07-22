@@ -15,7 +15,6 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/images/programmer.gif" alt="Coding gif" />
   
  💻 &emsp; I like making new things<br/>
  🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
@@ -32,3 +31,5 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white)
 <br/>
+
+<img align="right" width="350" src="/images/programmer.gif" width="50" height="50"/>
