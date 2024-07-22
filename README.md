@@ -24,9 +24,6 @@
  💻 &emsp; I like making new things<br/><br/>
  🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/><br/>
 </p>
-
-<br/>
-<br/>
 <br/>
 
 ## Technologies
