@@ -1,4 +1,5 @@
-<img align="left" src="images/flakes.gif" width="30%" height="30%" style="display:inline;">
+<img align="right" src="images/flakes.gif" width="30%" height="30%">
+
 
 # 👋 Hello :)
 
