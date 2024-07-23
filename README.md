@@ -35,11 +35,6 @@ Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hob
 
 ### ✏️ Projects
 
-<ul style="list-style-type: none; padding: 0; text-align: center;">
-    <li>
-        <a href="https://github.com/cosmicglitch1/Restoration">BotX</a> - Restore your Discord server from nukes
-    </li>
-</ul>
-
 </div>
 
+- [BotX](https://github.com/cosmicglitch1/Restoration) - Restore your Discord server from nukes
