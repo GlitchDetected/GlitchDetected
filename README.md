@@ -1,9 +1,3 @@
-<style>
-    body {
-        font-family: 'Courier', monospace;
-    }
-</style>
-
 # 👋 Hello :)
 
 **`Programmer`**
