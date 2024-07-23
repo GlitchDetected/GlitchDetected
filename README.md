@@ -3,7 +3,7 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-### 👋 Hello :)
+<h1>👋 Hello :)</h1>
 
 **`Programmer`**
 
@@ -31,5 +31,9 @@ Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hob
 
 ---
 
+<div align="center">
+
 ### ✏️ Projects
 - [BotX](https://github.com/cosmicglitch1/Restoration) - Restore your Discord server from nukes
+
+</div>
