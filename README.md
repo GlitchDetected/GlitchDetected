@@ -3,11 +3,11 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-<font size="30"><b>👋 Hello :)</b></font>
+<font size="30"><b>👋 Hello!</b></font>
 
 **`Programmer`**
 
-Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby. I enjoy creating a wide range of things such as games.
+Hi my name is [CosmicGlitch1](https://cosmicglitch1.vercel.app/), I enjoy doing programming and 3d modeling as my hobby. I enjoy creating a wide range of things such as games.
 
 <p>
     <a href="https://github.com/cosmicglitch1?tab=repositories">
