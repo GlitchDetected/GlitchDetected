@@ -1,8 +1,14 @@
+<style>
+    body {
+        font-family: 'Courier', monospace;
+    }
+</style>
+
 # 👋 Hello :)
 
 **`Programmer`**
 
-My name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby
+Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby. 
 
 <p align="left">
       <a href="https://github.com/cosmicglitch1?tab=repositories">
@@ -10,11 +16,11 @@ My name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby
 </p>
 
 ---
-# 🧰 Technologies and Tools
+### 🧰 Technologies and Tools
 
-<a align="left >
-      <img src="https://skillicons.dev/icons?i=mac,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb"/>
+<a>
+      <img src="https://skillicons.dev/icons?i=mac,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb,linux,discordjs,python,typescript"/>
 </a>
 
-# ✏️ Projects
-- [BotX] - Restore your Discord server from nukes
+### ✏️ Projects
+- [BotX](https://github.com/cosmicglitch1/Restoration) - Restore your Discord server from nukes
