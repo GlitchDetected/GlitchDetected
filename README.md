@@ -3,7 +3,9 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-<h1>👋 Hello :)</h1>
+<div style="font-size: 36px; font-weight: bold;">
+  👋 Hello :)
+</div>
 
 **`Programmer`**
 
