@@ -1,9 +1,9 @@
-<img align="left" src="images/snow.gif" width="30%" style="display:inline;"><img align="right" src="images/snow.gif" width="30%" style="display:inline;">
+<img align="left" src="images/flakes.gif" width="30%" style="display:inline;"><img align="right" src="images/flakes.gif" width="30%" style="display:inline;">
 
-# About me
+# About me 
 <h3 align="center">
         <samp>&gt; Hello!, I am
-                <b><a target="_blank" href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">CosmicGlitch1</a></b>
+                <b><a target="_blank" href="https://cosmicglitch1.vercel.app/">CosmicGlitch1</a></b>
         </samp>
 </h3>
 
@@ -16,10 +16,9 @@
 </p>
  
 <p>
-  
- 💻 &emsp; I like making new things<br/>
- 🌐 &emsp; Website coming soon [Website](https://www.youtube.com/watch?v=dQw4w9WgXcQ)<br/>
+ 💻 &emsp; I like making new things
 </p>
+
 
 # Technologies
 
