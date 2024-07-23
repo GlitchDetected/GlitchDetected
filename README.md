@@ -1,8 +1,10 @@
+<img align="left" src="images/flakes.gif" width="30%" height="30%" style="display:inline;">
+
 # 👋 Hello :)
 
 **`Programmer`**
 
-Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby. 
+Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby. I enjoy creating a wide range of things such as games.
 
 <p align="left">
       <a href="https://github.com/cosmicglitch1?tab=repositories">
