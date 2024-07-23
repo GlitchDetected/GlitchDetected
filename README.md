@@ -1,5 +1,3 @@
-<img align="left" src="images/flakes.gif" width="30%" style="display:inline;"><img align="right" src="images/flakes.gif" width="30%" style="display:inline;">
-
 # 👋 Hello :)
 
 **`Programmer`**
@@ -12,6 +10,10 @@ My name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby
 </p>
 
 ---
+
+<img align="left" src="images/flakes.gif" width="30%" style="display:inline;">
+<img align="right" src="images/flakes.gif" width="30%" style="display:inline;">
+<div style="clear: both;"></div>
 
 ### 🧰 Technologies and Tools
 
