@@ -13,7 +13,7 @@ Hi my name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hob
 ### 🧰 Technologies and Tools
 
 <a>
-      <img src="https://skillicons.dev/icons?i=mac,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb,linux,discordjs,python,typescript"/>
+      <img src="https://skillicons.dev/icons?i=blender,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb,linux,discordjs,python,typescript"/>
 </a>
 
 ### ✏️ Projects
