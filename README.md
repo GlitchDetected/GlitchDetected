@@ -1,3 +1,5 @@
+<img align="left" src="images/snow.gif" width="30%" style="display:inline;"><img align="right" src="images/snow.gif" width="30%" style="display:inline;">
+
 # About me
 <h3 align="center">
         <samp>&gt; Hello!, I am
