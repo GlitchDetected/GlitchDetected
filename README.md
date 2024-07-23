@@ -1,6 +1,6 @@
 <img align="left" src="images/flakes.gif" width="30%" style="display:inline;"><img align="right" src="images/flakes.gif" width="30%" style="display:inline;">
 
-# About me 
+# About me <h3 align="center">
 <h3 align="center">
         <samp>&gt; Hello!, I am
                 <b><a target="_blank" href="https://cosmicglitch1.vercel.app/">CosmicGlitch1</a></b>
@@ -20,7 +20,7 @@
 </p>
 
 
-# Technologies
+# Technologies <h3 align="center">
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
