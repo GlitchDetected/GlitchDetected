@@ -12,8 +12,8 @@ My name is CosmicGlitch1, I enjoy doing programming and 3d modeling as my hobby
 ---
 # 🧰 Technologies and Tools
 
-<a>
-      <img src="https://skillicons.dev/icons?i=mac,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb" />
+<a align="left >
+      <img src="https://skillicons.dev/icons?i=mac,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb"/>
 </a>
 
 # ✏️ Projects
