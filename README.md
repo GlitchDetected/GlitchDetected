@@ -1,7 +1,7 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
+<img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-
-# 👋 Hello :)
+### 👋 Hello :)
 
 **`Programmer`**
 
