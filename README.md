@@ -3,7 +3,7 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-<div style="font-size: 36px; font-weight: bold;">
+<div style="font-size: 60px; font-weight: bold;">
   👋 Hello :)
 </div>
 
