@@ -10,8 +10,8 @@
 Hi my name is [Glitchdetected](https://cosmicglitch1.vercel.app/)
 
 <p>
-    <a href="https://github.com/cosmicglitch1?tab=repositories">
-        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/CosmicGlitch1?color=22526b&style=for-the-badge&labelColor=488207&logo=star"/>
+    <a href="https://github.com/Glitchdetected?tab=repositories">
+        <img alt="stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Glitchdetected?color=22526b&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
 
