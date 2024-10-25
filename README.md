@@ -37,4 +37,5 @@ Hi my name is [Glitchdetected](https://cosmicglitch1.vercel.app/)
 
 </div>
 
-- [Restoration](https://github.com/cosmicglitch1/Restoration) - Restore your Discord server
+- [Restoration](https://github.com/Glitchdetected/Restoration) - Restore your Discord server
+- [TMSYS](https://github.com/Glitchdetected/TaskManagementSystem) - A program to keep jot down your notes, goals, tasks, etc.
