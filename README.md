@@ -3,11 +3,11 @@
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-<font size="30"><b>👋 Hello!</b></font>
+<font size="30"><b></b></font>
 
 **`Programmer`**
 
-Hi my name is [Glitchdetected](https://cosmicglitch1.vercel.app/)
+Hi my name is [Glitchdetected](https://nuclearbomb.vercel.app/)
 
 <p>
     <a href="https://github.com/Glitchdetected?tab=repositories">
@@ -24,7 +24,7 @@ Hi my name is [Glitchdetected](https://cosmicglitch1.vercel.app/)
 ### 🧰 Technologies and Tools
 
 <a>
-    <img src="https://skillicons.dev/icons?i=blender,bash,docker,git,github,vscode,js,nodejs,express,html,css,mongodb,linux,discordjs,python,typescript"/>
+    <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,js,nodejs,express,html,css,mongodb,discordjs,python"/>
 </a>
 
 </div>
@@ -37,5 +37,5 @@ Hi my name is [Glitchdetected](https://cosmicglitch1.vercel.app/)
 
 </div>
 
-- [Restoration](https://github.com/Glitchdetected/Restoration) - Restore your Discord server
-- [TMSYS](https://github.com/Glitchdetected/TaskManagementSystem) - A program to keep jot down your notes, goals, tasks, etc.
+- [Aerophobia](https://github.com/Glitchdetected/aerophobia) - Restore your Discord server
+- [TMSYS](https://github.com/Glitchdetected/TaskManagementSystem) - A program to keep jot down your notes, goals, tasks, etc. (coming to the app store pretty soon)
