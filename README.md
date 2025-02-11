@@ -1,14 +1,12 @@
-<div align="center">
-
+<!-- <div align="center">
 <img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
-
-<br><br><br><br><br><br>
+<br><br><br><br><br><br> -->
 <h2> What's up, I'm GlitchDetected</h2>
 
 ```js
 const GlitchDetected = {
-  pronouns: "anonymous" | "someone",
+  pronouns: "he" | "him",
 
   technologies: [
     "Javascript",
