@@ -1,22 +1,38 @@
-<!-- <div align="center"> -->
+<div align="center">
 
-<!-- <img align="right" src="images/flakes.gif" width="30%" height="30%">
+<img align="right" src="images/flakes.gif" width="30%" height="30%">
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
-<font size="30"><b></b></font> -->
+<br><br><br><br><br><br>
+<h2> What's up, I'm GlitchDetected</h2>
 
-#### `Hi there!`
-##
+```js
+const GlitchDetected = {
+  pronouns: "anonymous" | "someone",
 
+  technologies: [
+    "Javascript",
+    "Typescript",
+    "Next.js",
+    "React",
+    "PostgreSQL",
+    "Express.js",
+    "Redis"
+  ],
 
-#### `Current projects`
-* [aerophobia](https://discord.com/oauth2/authorize?client_id=1237878380838523001&permissions=8&integration_type=0&scope=bot) is a high quality moderation bot with the intention to bring security to Discord servers 
+  tools: [
+    "Docker",
+    "Ubuntu",
+    "PostgreSQL"
+  ],
 
-##
-#### `Poem`
+  organizations: {
+    owner: "randomdevelopment"
+  },
+};
 ```
-Clouds are white
-errors keep spawning
-git push --force
-*computer crashes*
-```
+
+### ✏️ Projects
+- [ChatGuard](https://discord.com/oauth2/authorize?client_id=1237878380838523001) - Discord chat bot to protect your discord server's chat from malicious spams, raids, users, and even bots. <br />
+
+---
