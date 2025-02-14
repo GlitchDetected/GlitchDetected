@@ -34,7 +34,7 @@ What's up, my name is `GlitchDetected` and I love working with computers. I am p
 ```mermaid
   pie showData
     title GitHub Commits the last 7 days
-    "countr/website" : 12
+    "glitchdetected/synchronize" : 12
 ```
 
 ## ✏️ Projects
