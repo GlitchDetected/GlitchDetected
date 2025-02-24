@@ -4,11 +4,9 @@
 <img align="left" src="images/flakes.gif" width="30%" height="30%">
 
 <br>-->
-# 🗿 What's up, I'm GlitchDetected
+# I... am GlitchDetected
 
-**`Fullstack Developer`** *@ [RandomDevelopment](https://github.com/RandomDevTeam)*
-
-What's up, my name is `GlitchDetected` and I love working with computers. I am passionate about programming and love utilizing different technologies/languages in my projects, mainly Typescript & PostgreSQL. I enjoy making a wide range of things, especially backend stuff.
+What's up, my name is `GlitchDetected` and I love working with computers. I am passionate about programming and love utilizing different technologies/languages in my projects, mainly Typescript, PostgreSQL, & Rust. I enjoy making a wide range of things, especially backend development.
 
 <p align="left">
       <a href="https://www.youtube.com/@glitchdetected">
@@ -29,15 +27,13 @@ What's up, my name is `GlitchDetected` and I love working with computers. I am p
       <img src="https://skillicons.dev/icons?i=cloudflare,aws,discord" /><br />
 </a>
 
-## Recent GitHub Activity
+## 📈 Github Stats
 
-```mermaid
-  pie showData
-    title GitHub Commits the last 7 days
-    "glitchdetected/synchronize" : 12
-```
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=glitchdetected&count_private=true&theme=dark&show_icons=true)](https://github.com/glitchdetected/github-readme-stats)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchdetected&theme=dark&layout=compact)
 
 ## ✏️ Projects
 - [ChatGuard](https://discord.com/oauth2/authorize?client_id=1237878380838523001) - Discord chat bot to protect your discord server's chat from malicious spams, raids, users, and even bots. <br />
-
+- [Synchronize](https://github.com/GlitchDetected/Synchronize) - Discord flavored chat app built in nothing but go and react. Probably gonna rewrite the websocket with rust <br />
+- [Slashed](https://github.com/GlitchDetected/slashed) - Easily reset your discord bot's slash commands <br />
 ---
