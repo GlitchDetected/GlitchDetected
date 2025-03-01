@@ -20,10 +20,10 @@ What's up, my name is `GlitchDetected` and I love working with computers. I am p
 ## 🧰 Technologies
 <a href="https://github.com/GlitchDetected" title="Click Me">
       <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu" /><br />
-      <img src="https://skillicons.dev/icons?i=html,css,bash,go,js,ts,py,md,regex" /><br />
+      <img src="https://skillicons.dev/icons?i=html,css,bash,rust,js,ts,py,md,regex" /><br />
       <img src="https://skillicons.dev/icons?i=nodejs,npm,discordjs,express,vite,react,nextjs,tailwind,mongodb,postgres,redis" /><br />
       <img src="https://skillicons.dev/icons?i=git,github,docker,workers,sentry,bots" /><br />
-      <img src="https://skillicons.dev/icons?i=vim,vscode,idea" /><br />
+      <img src="https://skillicons.dev/icons?i=vim,vscode,neovim" /><br />
       <img src="https://skillicons.dev/icons?i=cloudflare,aws,discord" /><br />
 </a>
 
