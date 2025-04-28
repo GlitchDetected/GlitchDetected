@@ -9,7 +9,7 @@
 What's up, my name is `GlitchDetected` and I love working with computers. I am passionate about programming and love utilizing different technologies/languages in my projects, mainly Typescript, PostgreSQL, & Rust. I enjoy making a wide range of things, especially backend development.
 
 <p align="left">
-      <a href="https://www.youtube.com/@glitchdetected">
+      <a href="https://www.youtube.com/@glitchdetected1">
          <img alt="youtube subscribers" title="Subscribe" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC6f9_ARBlEKAf8cDUcM1BzQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
       <a href="https://github.com/glitchdetected?tab=followers">
          <img alt="followers" title="Follow me" src="https://custom-icon-badges.demolab.com/github/followers/glitchdetected?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
