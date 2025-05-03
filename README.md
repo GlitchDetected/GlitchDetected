@@ -6,7 +6,7 @@
 <br>-->
 # I... am GlitchDetected
 
-What's up, my name is `GlitchDetected` and I love working with computers. I am passionate about programming and love utilizing different technologies/languages in my projects, mainly Typescript, PostgreSQL, & Rust. I enjoy making a wide range of things, especially backend development.
+What's up, my name is `GlitchDetected`. I am passionate about computer science and love utilizing different technologies in my applications and projects, mainly Typescript, PostgreSQL, React, and Rust. I enjoy building a wide range of things, especially RESTful APIs.
 
 <p align="left">
       <a href="https://www.youtube.com/@glitchdetected1">
@@ -33,7 +33,7 @@ What's up, my name is `GlitchDetected` and I love working with computers. I am p
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glitchdetected&theme=dark&layout=compact)
 
 ## ✏️ Projects
-- [ChatGuard](https://discord.com/oauth2/authorize?client_id=1237878380838523001) - Discord chat bot to protect your discord server's chat from malicious spams, raids, users, and even bots. <br />
-- [Synchronize](https://github.com/GlitchDetected/Synchronize) - Discord flavored chat app built in nothing but go and react. Probably gonna rewrite the websocket with rust <br />
-- [Slashed](https://github.com/GlitchDetected/slashed) - Easily reset your discord bot's slash commands <br />
+- [NotificationBot](https://discord.com/oauth2/authorize?client_id=1366507117044957276) - Notify your Discord Server from a variety of sources, YouTube, Twitch, etc. <br />
+- [ChatGuard](https://www.youtube.com/watch?v=dQw4w9WgXcQ) - Discord integration to protect your discord server's chat from malicious spams, raids, users, and even bots (currently abandoned) <br />
+- [Synchronize](https://github.com/GlitchDetected/Synchronize) - Discord UI flavored chat app built in GoLang and React <br />
 ---
