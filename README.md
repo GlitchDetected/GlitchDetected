@@ -1,9 +1,9 @@
-## What's up!
-Currently chilling at `$HOME`
+## Hello
+I just chill all day at `$HOME`
 
-## Technologies
+## Technologies I Work With
 <a>
-      <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,html,css,bash,rust,js,ts,py,md,regex,nodejs,npm,discordjs,express,vite,react,nextjs,tailwind,mongodb,postgres,redis,git,github,docker,workers,sentry,bots,vscode,neovim,cloudflare,aws" /><br />
+      <img src="https://skillicons.dev/icons?i=apple,linux,ubuntu,bash,cpp,c,js,ts,py,md,regex,nodejs,npm,discordjs,express,vite,react,nextjs,tailwind,mongodb,postgres,redis,git,github,docker,workers,sentry,bots,vscode,neovim,cloudflare,aws" /><br />
 </a>
 
 ## What I'm working on
